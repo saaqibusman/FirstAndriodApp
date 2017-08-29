@@ -1,0 +1,6 @@
+<TextView 
+  andriod:text="Happy Birthday !"
+  andriod:background="@andriod:color/darker_grey"
+  andriod:layout_width="150dp"
+  andriod:layout_height="75dp"
+/>
